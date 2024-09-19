@@ -1,4 +1,4 @@
-# Olá 👋
+# Colé 😎
 
 ## Aluno do curso **Técnico em Informática e Desenvolvimento WEB** na <b>[FIEMG - Federação das Indústrias do Estado de Minas Gerais](https://www.fiemg.com.br/) Ipatinga/MG</b>.
 
